@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FFFFFF"        # Cor dos elementos principais (branco)
+backgroundColor = "#000000"     # Cor do fundo da página (preto)
+secondaryBackgroundColor = "#333333"  # Cor do fundo das seções secundárias (cinza escuro)
+textColor = "#FFFFFF"           # Cor do texto (branco)
